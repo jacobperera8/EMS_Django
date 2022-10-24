@@ -16,6 +16,6 @@ There shouldn't be an issue when deploying the django framework for testing
 # Admin user created using the createsuperuser command list.no 6.
 # Run that command to create a new admin user if required
 
-Created Test accounts
+# Created Test accounts
 username - admin
 password - admin`
